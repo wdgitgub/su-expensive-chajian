@@ -1,0 +1,14 @@
+﻿1.打开su-窗口-扩展程序管理器-安装扩展程序-控制管理器窗口里打开插件
+  下载的位置-双击1. skimp-v1.1.1.rbz
+2.打开-2.Skimp激活补丁-点自定义安装-开始使用。
+安装必看：
+
+注意注意！
+激活后，打开SU，发现插件没有激活，还出现添加许可窗口怎么处理？
+
+检查你的SU安装路径
+1、正确的SU路径举例：C：/Programfiles/Sketchup/Sketchup2018
+                                    D：/Programfiles/Sketchup/Sketchup2018
+                                    E : /Programfiles/Sketchup/Sketchup2018
+2 、重新安装SU，如上述这样默认安装路径，只可以改盘符。不要自己改具体路径，而另建立文件夹。
+3、如果不重新安装SU，可以把SU程序移到上述默认路径里，重新建立Sketchup的的快捷方式到桌面.

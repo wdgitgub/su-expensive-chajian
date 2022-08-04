@@ -1,0 +1,2 @@
+EDGE TOOLS安装提示
+ Edge tools 安装前必须要安装TT_Lib2才能运行
