@@ -1,0 +1,24 @@
+安装步骤：
+
+拷贝对应版本文件夹里面的VT_CEXT.so到
+SketchUP 2019:
+C:\Users\你的用户名\AppData\Roaming\SketchUp\SketchUp 2019\SketchUp\Plugins
+\tt_vertex2\libraries\2.0.3.257\2.5\win64
+
+Sketchup 2021:
+C:\Users\你的用户名\AppData\Roaming\SketchUp\SketchUp 2021\SketchUp\Plugins
+\tt_vertex2\libraries\2.0.3.257\2.7\win64
+
+拷贝Vertex Tools.lic到
+C:\Users\你的用户名\AppData\Roaming\Evil Software Empire\Vertex Tools\
+（有些电脑可能无Evil Software Empire文件夹，如无Evil Software Empire文件夹则直接找Vertex Tools文件夹）
+
+
+在hosts文件里加上
+127.0.0.1 evilsoftwareempire.com
+保存即可
+
+hosts文件地址：C:\Windows\System32\drivers\etc
+
+将hosts文件复制至桌以笔记本方式打开，修改保存后替换回原路径的文件
+（第一次操作建议将hosts复制多一份备份）
